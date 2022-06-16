@@ -1,0 +1,50 @@
+start_time,end_time,start_station_id,end_station_id,start_station_name,end_station_name,bike_id,user_type
+2016-01-01 00:08:07,2016-01-01 00:40:26,36,19,Boston Public Library - 700 Boylston St.,Buswell St. at Park Dr.,1406,Subscriber
+2016-01-01 00:08:19,2016-01-01 00:40:27,36,19,Boston Public Library - 700 Boylston St.,Buswell St. at Park Dr.,1121,Subscriber
+2016-01-01 00:10:15,2016-01-01 00:40:29,36,19,Boston Public Library - 700 Boylston St.,Buswell St. at Park Dr.,474,Subscriber
+2016-01-01 00:10:22,2016-01-01 00:40:11,36,19,Boston Public Library - 700 Boylston St.,Buswell St. at Park Dr.,1504,Subscriber
+2016-01-01 00:15:36,2016-01-01 00:31:17,36,67,Boston Public Library - 700 Boylston St.,MIT at Mass Ave / Amherst St,913,Customer
+2016-01-01 00:17:15,2016-01-01 00:22:39,110,88,Harvard University Gund Hall at Quincy St / Kirkland S,Inman Square at Vellucci Plaza / Hampshire St,620,Subscriber
+2016-01-01 00:25:13,2016-01-01 00:43:06,107,176,Ames St at Main St,Lesley University,204,Subscriber
+2016-01-01 00:25:24,2016-01-01 00:32:57,141,90,Kendall Street,Lechmere Station at Cambridge St / First St,750,Subscriber
+2016-01-01 00:45:02,2016-01-01 00:49:47,178,80,MIT Pacific St at Purrington St,MIT Stata Center at Vassar St / Main St,909,Subscriber
+2016-01-01 00:47:48,2016-01-01 00:51:34,68,178,Central Square at Mass Ave / Essex St,MIT Pacific St at Purrington St,813,Subscriber
+2016-01-01 00:54:00,2016-01-01 01:00:47,72,178,One Broadway / Kendall Sq at Main St / 3rd St,MIT Pacific St at Purrington St,1281,Subscriber
+2016-01-01 00:58:34,2016-01-01 01:01:32,68,177,Central Square at Mass Ave / Essex St,University Park,661,Subscriber
+2016-01-01 00:58:53,2016-01-01 01:01:24,68,177,Central Square at Mass Ave / Essex St,University Park,451,Subscriber
+2016-01-01 01:10:14,2016-01-01 01:17:53,68,88,Central Square at Mass Ave / Essex St,Inman Square at Vellucci Plaza / Hampshire St,1471,Customer
+2016-01-01 01:17:49,2016-01-01 01:32:37,163,121,Lawn on D,West Broadway at Dorchester St,1218,Subscriber
+2016-01-01 01:20:35,2016-01-01 01:32:45,163,121,Lawn on D,West Broadway at Dorchester St,887,Subscriber
+2016-01-01 01:22:29,2016-01-01 04:27:34,74,22,Harvard Square at Mass Ave/ Dunster,South Station - 700 Atlantic Ave.,232,Subscriber
+2016-01-01 01:27:24,2016-01-01 04:27:28,74,22,Harvard Square at Mass Ave/ Dunster,South Station - 700 Atlantic Ave.,1162,Subscriber
+2016-01-01 01:36:26,2016-01-01 02:00:12,43,36,Rowes Wharf - Atlantic Ave,Boston Public Library - 700 Boylston St.,649,Subscriber
+2016-01-01 01:38:39,2016-01-01 01:44:13,84,90,CambridgeSide Galleria - CambridgeSide PL at Land Blvd,Lechmere Station at Cambridge St / First St,1217,Subscriber
+2016-01-01 01:38:58,2016-01-01 02:00:04,43,36,Rowes Wharf - Atlantic Ave,Boston Public Library - 700 Boylston St.,1303,Subscriber
+2016-01-01 01:39:05,2016-01-01 02:00:27,43,36,Rowes Wharf - Atlantic Ave,Boston Public Library - 700 Boylston St.,766,Customer
+2016-01-01 01:39:07,2016-01-01 01:45:25,43,47,Rowes Wharf - Atlantic Ave,Cross St. at Hanover St.,282,Customer
+2016-01-01 01:43:15,2016-01-01 01:59:20,49,47,Stuart St. at Charles St.,Cross St. at Hanover St.,1187,Customer
+2016-01-01 01:57:01,2016-01-01 02:05:09,95,141,Cambridge St - at Columbia St / Webster Ave,Kendall Street,1498,Subscriber
+2016-01-01 01:57:52,2016-01-01 02:04:36,80,179,MIT Stata Center at Vassar St / Main St,MIT Vassar St,411,Subscriber
+2016-01-01 01:59:49,2016-01-01 02:05:10,46,25,Christian Science Plaza,Tremont St / W Newton St,551,Subscriber
+2016-01-01 02:02:18,2016-01-01 02:12:27,16,138,Back Bay / South End Station,Mass Ave at Newmarket Square,348,Subscriber
+2016-01-01 02:02:30,2016-01-01 04:00:44,36,36,Boston Public Library - 700 Boylston St.,Boston Public Library - 700 Boylston St.,1011,Subscriber
+2016-01-01 02:02:36,2016-01-01 04:01:14,36,36,Boston Public Library - 700 Boylston St.,Boston Public Library - 700 Boylston St.,94,Subscriber
+2016-01-01 02:05:56,2016-01-01 02:23:32,150,25,State Street at Channel Center,Tremont St / W Newton St,772,Customer
+2016-01-01 02:06:23,2016-01-01 02:23:31,150,25,State Street at Channel Center,Tremont St / W Newton St,639,Subscriber
+2016-01-01 02:11:38,2016-01-01 02:25:49,70,91,Harvard Kennedy School at Bennett St / Eliot St,One Kendall Square at Hampshire St / Portland St,86,Subscriber
+2016-01-01 02:11:51,2016-01-01 04:00:53,36,36,Boston Public Library - 700 Boylston St.,Boston Public Library - 700 Boylston St.,866,Subscriber
+2016-01-01 02:27:25,2016-01-01 22:28:12,121,100,West Broadway at Dorchester St,Davis Square,1062,Subscriber
+2016-01-01 02:27:32,2016-01-01 21:56:27,121,100,West Broadway at Dorchester St,Davis Square,1496,Subscriber
+2016-01-01 03:21:20,2016-01-01 03:30:21,74,88,Harvard Square at Mass Ave/ Dunster,Inman Square at Vellucci Plaza / Hampshire St,835,Subscriber
+2016-01-01 06:57:30,2016-01-01 07:01:13,73,180,Harvard Square at Brattle St / Eliot St,Mt Auburn,1572,Subscriber
+2016-01-01 07:25:28,2016-01-01 07:28:39,91,107,One Kendall Square at Hampshire St / Portland St,Ames St at Main St,1495,Subscriber
+2016-01-01 07:28:25,2016-01-01 07:31:39,75,178,Lafayette Square at Mass Ave / Main St / Columbia St,MIT Pacific St at Purrington St,13,Subscriber
+2016-01-01 07:39:50,2016-01-01 07:42:16,178,75,MIT Pacific St at Purrington St,Lafayette Square at Mass Ave / Main St / Columbia St,813,Subscriber
+2016-01-01 08:49:02,2016-01-01 09:09:45,107,73,Ames St at Main St,Harvard Square at Brattle St / Eliot St,1495,Customer
+2016-01-01 08:50:56,2016-01-01 08:55:04,67,68,MIT at Mass Ave / Amherst St,Central Square at Mass Ave / Essex St,1270,Subscriber
+2016-01-01 08:51:52,2016-01-01 08:56:49,70,110,Harvard Kennedy School at Bennett St / Eliot St,Harvard University Gund Hall at Quincy St / Kirkland S,1562,Customer
+2016-01-01 09:27:37,2016-01-01 09:30:31,91,107,One Kendall Square at Hampshire St / Portland St,Ames St at Main St,271,Customer
+2016-01-01 09:27:40,2016-01-01 09:30:35,91,107,One Kendall Square at Hampshire St / Portland St,Ames St at Main St,86,Customer
+2016-01-01 09:29:59,2016-01-01 09:32:30,118,100,Linear Park - Mass. Ave. at Cameron Ave. ,Davis Square,322,Customer
+2016-01-01 09:39:49,2016-01-01 09:48:21,95,171,Cambridge St - at Columbia St / Webster Ave,Bunker Hill Community College,674,Customer
+2016-01-01 09:41:31,2016-01-01 09:48:55,143,141,EF - North Point Park,Kendall Street,450,Subscriber
